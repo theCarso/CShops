@@ -1,0 +1,10 @@
+name: CShops
+version: ${project.version}
+main: me.thecarso.cshops.CShops
+authors: [ theCarso ]
+description: Shops
+commands:
+  shop:
+    description: Shop command.
+  sell:
+    description: Sell command.

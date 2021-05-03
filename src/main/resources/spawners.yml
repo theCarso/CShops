@@ -1,0 +1,12 @@
+display:
+  type: GRASS
+  name: '&aBuilding Blocks'
+  lore:
+    - '&7Click to browse our building blocks.'
+spawners:
+  zombie:
+    display: 'Zombie'
+    price: 50000
+  irongolem:
+    display: 'Iron Golem'
+    price: 2000000

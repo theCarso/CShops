@@ -1,0 +1,12 @@
+weight: 1
+display:
+  type: GRASS
+  name: '&aBuilding Blocks'
+  lore:
+    - '&7Click to browse our building blocks.'
+items:
+  stone:
+    type: STONE
+    data: 0
+    amounts: 1,4,16,32,64
+    buyPrice: 5.0
